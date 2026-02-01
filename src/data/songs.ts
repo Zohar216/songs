@@ -29,5 +29,12 @@ export const SONGS: Song[] = [
       url: "https://www.youtube.com/watch?v=0t2NYMTs_20&list=PL0m7-t8pR82bmkFKMFKttnbgr5AzkMW2v&index=4",
       createdAt: "",
     },
+    {
+      id: "5",
+      title: "משה מונטיפיורי",
+      artist: "יהורם גאון",
+      url: "https://www.youtube.com/watch?v=1KbMQk7beQg&list=RD1KbMQk7beQg&start_radio=1",
+      createdAt: "",
+    },
 
 ];
