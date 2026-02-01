@@ -36,5 +36,12 @@ export const SONGS: Song[] = [
       url: "https://www.youtube.com/watch?v=1KbMQk7beQg&list=RD1KbMQk7beQg&start_radio=1",
       createdAt: "",
     },
+    {
+      id: "5",
+      title: "דורמה דורמה",
+      artist: "יהורם גאון",
+      url: "https://www.youtube.com/watch?v=YhQVDbrb0ew&list=PL0m7-t8pR82bmkFKMFKttnbgr5AzkMW2v&index=10",
+      createdAt: "",
+    },
 
 ];
